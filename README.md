@@ -1,6 +1,7 @@
 A powerful, production-ready LinkedIn-inspired web application built with modern technologies including MongoDB, JWT authentication, Stripe payments, and Tailwind CSS. This project demonstrates advanced web development skills in building a feature-rich social platform with seamless user experience and real-world scalability.
 
 ###🔧 Features:
+
 1.Full Authentication System with JWT and role-based access
 
 2.MongoDB Database Integration for secure and efficient data management
@@ -20,6 +21,7 @@ A powerful, production-ready LinkedIn-inspired web application built with modern
 9.Modern UI/UX using Tailwind CSS and DaisyUI for responsiveness and aesthetics
 
 ###🛠️ Tech Stack:
+
 1.Frontend: React, Tailwind CSS, DaisyUI
 
 2.Backend: Node.js, Express.js
